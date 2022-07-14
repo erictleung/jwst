@@ -4,6 +4,10 @@
 # jwst
 
 <!-- badges: start -->
+
+[![License](https://img.shields.io/github/license/erictleung/jwst)](https://img.shields.io/github/license/erictleung/jwst)
+[![Project Type Toy
+Badge](https://img.shields.io/badge/project%20type-toy-blue)](https://project-types.github.io/#toy)
 <!-- badges: end -->
 
 The goal of jwst is to be an R color palette inspired by the beautiful
@@ -110,12 +114,18 @@ List other images available.
 
 ``` r
 list.files(paste0(system.file(package = "jwst"), "/help/figures"))
-#>  [1] "carina.jpg"                   "README-unnamed-chunk-2-1.png"
-#>  [3] "README-unnamed-chunk-3-1.png" "README-unnamed-chunk-4-1.png"
-#>  [5] "README-unnamed-chunk-5-1.png" "README-unnamed-chunk-6-1.png"
-#>  [7] "README-unnamed-chunk-7-1.png" "README-unnamed-chunk-8-1.png"
-#>  [9] "smacs.jpg"                    "southernringnebula_1.jpg"    
-#> [11] "southernringnebula_2.jpg"     "stephansquintet.jpg"
+#>  [1] "carina.jpg"                            
+#>  [2] "README-example_generate_palette-1.png" 
+#>  [3] "README-palette_carina-1.png"           
+#>  [4] "README-palette_carina_three-1.png"     
+#>  [5] "README-palette_smacs-1.png"            
+#>  [6] "README-palette_southern_nebula_1-1.png"
+#>  [7] "README-palette_southern_nebula_2-1.png"
+#>  [8] "README-palette_stephans-1.png"         
+#>  [9] "smacs.jpg"                             
+#> [10] "southernringnebula_1.jpg"              
+#> [11] "southernringnebula_2.jpg"              
+#> [12] "stephansquintet.jpg"
 ```
 
 See <https://github.com/leonawicz/imgpalr> for more.
