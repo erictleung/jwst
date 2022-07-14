@@ -1,0 +1,18 @@
+Package: jwst
+Type: Package
+Title: JWST Color Palette for R
+Version: 0.1.0
+Authors@R:
+    person(given = "Eric",
+           family = "Leung",
+           role = c("aut", "cre"),
+           email = "erictleung@outlook.com",
+           comment = c(ORCID = "0000-0002-8724-1872"))
+Description: An R color palette inspired by the images from the JWST.
+URL: https://github.com/erictleung/jwst
+BugReports: https://github.com/erictleung/jwst/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
