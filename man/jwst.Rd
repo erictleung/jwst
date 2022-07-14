@@ -21,7 +21,8 @@ schemes are derived from If omitted, uses all colors.}
 A vector of colors.
 }
 \description{
-jwst palette generator
+Function derived from https://github.com/ciannabp/inauguration with minor
+changes.
 }
 \examples{
 jwst("carina")
