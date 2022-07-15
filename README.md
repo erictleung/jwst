@@ -11,7 +11,9 @@ Badge](https://img.shields.io/badge/project%20type-toy-blue)](https://project-ty
 <!-- badges: end -->
 
 The goal of jwst is to be an R color palette inspired by the beautiful
-images from the JWST.
+images from the James Webb Space Telescope (JWST).
+
+More on the JWST itself here <https://jwst.nasa.gov/index.html>.
 
 ## Installation
 
@@ -131,6 +133,9 @@ list.files(paste0(system.file(package = "jwst"), "/help/figures"))
 See <https://github.com/leonawicz/imgpalr> for more.
 
 ## Acknowledgements
+
+Code largely inspired and attributable to
+<https://github.com/ciannabp/inauguration>.
 
 Images from NASA’s James Webb Space Telescope (JWST)
 <https://www.nasa.gov/webbfirstimages>.
