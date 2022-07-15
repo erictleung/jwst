@@ -137,5 +137,8 @@ See <https://github.com/leonawicz/imgpalr> for more.
 Code largely inspired and attributable to
 <https://github.com/ciannabp/inauguration>.
 
+Color palettes were generated using
+<https://github.com/leonawicz/imgpalr>.
+
 Images from NASA’s James Webb Space Telescope (JWST)
 <https://www.nasa.gov/webbfirstimages>.
