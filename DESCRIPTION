@@ -11,7 +11,7 @@ Authors@R:
 Description: An R color palette inspired by the images from the JWST.
 URL: https://github.com/erictleung/jwst
 BugReports: https://github.com/erictleung/jwst/issues
-License: MIT
+License: MIT + file LICENSE.md
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
