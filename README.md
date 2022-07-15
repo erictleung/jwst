@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/erictleung/jwst/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/erictleung/jwst/actions/workflows/R-CMD-check.yaml)
 [![License](https://img.shields.io/github/license/erictleung/jwst)](https://img.shields.io/github/license/erictleung/jwst)
 [![Project Type Toy
 Badge](https://img.shields.io/badge/project%20type-toy-blue)](https://project-types.github.io/#toy)
